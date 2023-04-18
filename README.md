@@ -73,14 +73,14 @@ Example command:
 
 Install this project with:
 
-- cd decode-morse
+- cd Enumerable
 - ubuntu version 22 or higher
 
 ### Usage
 
 To run the project, execute the following command:
 
-- ruby decode.rb
+- ruby my_list.rb
 
 ### Run tests
 
